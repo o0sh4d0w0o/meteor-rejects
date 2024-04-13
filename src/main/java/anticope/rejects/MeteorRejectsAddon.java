@@ -81,6 +81,7 @@ public class MeteorRejectsAddon extends MeteorAddon {
         modules.add(new SkeletonESP());
         modules.add(new SoundLocator());
         modules.add(new TreeAura());
+        modules.add(new TriggerBot());
         modules.add(new VehicleOneHit());
         modules.add(new AutoEnchant());
         modules.add(new AutoRename());
